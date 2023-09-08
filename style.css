@@ -12,6 +12,9 @@ body {
 article {
     background-color: #fff;
     width: 290px;
+    /* max-width: 20rem; */
+    /* max-width: 19%; */
+    /* min-height: fit-content; */
     margin-left: auto;
     margin-right: auto;
     padding: 15px;
@@ -38,6 +41,7 @@ img {
 }
 
 .container {
+    /* max-width: 1530px; */
     height: 100vh;
     display: flex;
     align-items: center;
